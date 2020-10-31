@@ -71,6 +71,6 @@ void	ft_putnbr_base(int nbr, char *base)
 
 int main()
 {
-    ft_putnbr_base(145778, "LUCAS");
+    ft_putnbr_base(145778, "augustin");
     return (0);
 }       
