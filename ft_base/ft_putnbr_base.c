@@ -1,5 +1,5 @@
 // fonctionne pas mdr
-
+// affiche rien sur la sortie standard
 #include <unistd.h>
 #include <stdio.h>
 
